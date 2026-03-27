@@ -2,4 +2,4 @@ hello
 world
 feature
 main-change
-feature-conflict
+feature-conflictcmd-test 
