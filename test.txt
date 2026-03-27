@@ -1,4 +1,5 @@
-hello 
-world 
-feature 
-main-change 
+hello
+world
+feature
+main-change
+feature-conflict
